@@ -18,4 +18,4 @@ def guess_the_number():
 
     print(f"Congratulations! You guessed the number in {attempts} attempts.")
 
-guess_the_number()
+guess_the_number() 
